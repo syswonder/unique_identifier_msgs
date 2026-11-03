@@ -1,6 +1,11 @@
 Change history
 ==============
 
+2.9.1 (2026-11-03)
+------------------
+* use C++ 20 in default. (`#35 <https://github.com/ros2/unique_identifier_msgs//issues/35>`_)
+* Contributors: Tomoya Fujita
+
 2.9.0 (2026-05-05)
 ------------------
 
